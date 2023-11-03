@@ -1,6 +1,6 @@
 # Simulation studies for a double-crystal channeling experiment at the LHC
 
-Physics of Data Master Thesis final paper. 
+Physics of Data Master Thesis final paper.\\
 Università degli Studi di Padova, 07/09/2023.
 
 ### Abstract:
